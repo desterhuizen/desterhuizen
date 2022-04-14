@@ -20,6 +20,7 @@ You can reach me at 👇
 
   ![stats](https://github-readme-stats.vercel.app/api?username=desterhuizen&hide=prs,contribs&show_icons=true&theme=nord)
 
-  <script src="https://tryhackme.com/badge/137646"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/desterhuizen.png" alt="TryHackMe">
+
   
 </div>
