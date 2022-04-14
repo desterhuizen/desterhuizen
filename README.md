@@ -11,6 +11,9 @@ You can reach me at 👇
 [![HackTheBox:](https://img.shields.io/badge/hackthebox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/100799)
 [![TryHackMe:](https://img.shields.io/badge/tryhackme-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/desterhuizen)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/desterhuizen.png" alt="TryHackMe">
+
+
 <div align="center">
   
   ## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> GitHub Trophies
