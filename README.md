@@ -2,8 +2,6 @@
   
   <h2><img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70">desterhuizen<img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
   
-  You can reach me at 👇
-  
   [![Profile](https://img.shields.io/badge/Website-38B2AC?style=for-the-badge&logo=webdriverio&logoColor=white)](https://desterhuizen.eu/)
   [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/desterhuizen)
   [![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desterhuizen/)
