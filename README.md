@@ -11,8 +11,6 @@ You can reach me at 👇
 [![HackTheBox:](https://img.shields.io/badge/hackthebox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/100799)
 [![TryHackMe:](https://img.shields.io/badge/tryhackme-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/desterhuizen)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/desterhuizen.png" alt="TryHackMe">
-
 
 <div align="center">
   
@@ -21,5 +19,7 @@ You can reach me at 👇
   ![trophy](https://github-profile-trophy.vercel.app/?username=desterhuizen&theme=onedark&column=8)
 
   ![stats](https://github-readme-stats.vercel.app/api?username=desterhuizen&hide=prs,contribs&show_icons=true&theme=nord)
+
+  <script src="https://tryhackme.com/badge/137646"></script>
   
 </div>
