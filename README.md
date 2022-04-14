@@ -18,7 +18,9 @@
 
   ![stats](https://github-readme-stats.vercel.app/api?username=desterhuizen&hide=prs,contribs&show_icons=true&theme=nord)
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/desterhuizen.png" alt="TryHackMe">
+  [![TryHackMe:](<img src="https://tryhackme-badges.s3.amazonaws.com/desterhuizen.png" alt="TryHackMe">)](https://tryhackme.com/p/desterhuizen)
+
+  
 
   
 </div>
