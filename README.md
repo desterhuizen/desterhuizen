@@ -1,10 +1,6 @@
-<h2><img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70">desterhuizen<img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
-
-
-
-
-
 <div align="center">
+  
+  <h2><img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70">desterhuizen<img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
   
   You can reach me at 👇
   
