@@ -9,6 +9,7 @@ You can reach me at 👇
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/desterhuizen)
 [![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desterhuizen/)
 [![HackTheBox:](https://img.shields.io/badge/hackthebox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/100799)
+[![TryHackMe:](https://img.shields.io/badge/tryhackme-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/desterhuizen)
 
 <div align="center">
   
