@@ -2,6 +2,11 @@
   
   <h2><img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70">desterhuizen<img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
   
+  ## <img src="https://i.giphy.com/media/oUhQb6SSMXEDnvBnbJ/200w.webp" width="50" height="45"> Trophies
+| C\|EH |
+|------------|
+| <img width="200" height="200" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png"> | 
+  
   [![Profile](https://img.shields.io/badge/Website-38B2AC?style=for-the-badge&logo=webdriverio&logoColor=white)](https://desterhuizen.eu/)
   [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/desterhuizen)
   [![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desterhuizen/)
@@ -16,6 +21,7 @@
   ![stats](https://github-readme-stats.vercel.app/api?username=desterhuizen&hide=prs,contribs&show_icons=true&theme=nord)
 
   [![Tux, the Linux mascot](https://tryhackme-badges.s3.amazonaws.com/desterhuizen.png)](https://tryhackme.com/p/desterhuizen)
+  
   
 
   
