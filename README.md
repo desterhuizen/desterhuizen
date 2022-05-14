@@ -2,10 +2,9 @@
   
   <h2><img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70">desterhuizen<img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
   
-  ## <img src="https://i.giphy.com/media/oUhQb6SSMXEDnvBnbJ/200w.webp" width="50" height="45"> Trophies
 | C\|EH |
 |------------|
-| <img width="200" height="200" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png"> | 
+| [<img width="200" height="200" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png">](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) | 
   
   [![Profile](https://img.shields.io/badge/Website-38B2AC?style=for-the-badge&logo=webdriverio&logoColor=white)](https://desterhuizen.eu/)
   [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/desterhuizen)
