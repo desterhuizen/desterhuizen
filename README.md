@@ -2,9 +2,9 @@
   
   <h2><img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70">desterhuizen<img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
   
-| C\|EH | C\EH (Practical) |
-|------------|------------| 
-| [<img width="200" height="200" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=IklI8VJJRcrxRV0qYAV/BJuaHuJQzzWZ2mUvNTvpYh4=) | [<img width="200" height="200" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=VVUr2sh+obJViSmBkqkrXVjmuctLmvVQxfYIGVXNbdU=) | 
+| C\|EH (Master) | C\|EH | C\EH (Practical) |
+|------------|------------|------------| 
+| [<img width="200" height="200" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png">]https://aspen.eccouncil.org/Badge?a=VVUr2sh+obJViSmBkqkrXbilwSG7bu8Nqr+9ZhZ2aME=) | [<img width="200" height="200" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=IklI8VJJRcrxRV0qYAV/BJuaHuJQzzWZ2mUvNTvpYh4=) | [<img width="200" height="200" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=VVUr2sh+obJViSmBkqkrXVjmuctLmvVQxfYIGVXNbdU=) | 
   
   [![Profile](https://img.shields.io/badge/Website-38B2AC?style=for-the-badge&logo=webdriverio&logoColor=white)](https://desterhuizen.eu/)
   [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/desterhuizen)
