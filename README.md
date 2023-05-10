@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h2><img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70">desterhuizen<img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
+  <h2><img src="[https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72627710)" width="70">desterhuizen<img src="[https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif](https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png)" width="70"></h2>
   
 | OSCP | C\|EH (Master) | C\|EH | C\EH (Practical) |
 |------------|------------|------------|------------| 
