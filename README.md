@@ -18,10 +18,4 @@
   ![trophy](https://github-profile-trophy.vercel.app/?username=desterhuizen&theme=onedark&column=8)
 
   ![stats](https://github-readme-stats.vercel.app/api?username=desterhuizen&hide=prs,contribs&show_icons=true&theme=nord)
-
-  [![Tux, the Linux mascot](https://tryhackme-badges.s3.amazonaws.com/desterhuizen.png)](https://tryhackme.com/p/desterhuizen)
-  
-  
-
-  
 </div>
