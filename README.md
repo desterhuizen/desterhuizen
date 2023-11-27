@@ -5,6 +5,8 @@
 | OSCP |
 |------------|
 | [<img width="200" height="180" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72627710">](https://www.credential.net/e44015c7-975a-484f-a222-0054c683e745) |
+
+
 | C\|EH (Master) | C\|EH | C\EH (Practical) | Mentor |
 |------------|------------|------------|------------| 
 | [<img width="200" height="180" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72627710">](https://www.credential.net/e44015c7-975a-484f-a222-0054c683e745) | [<img width="200" height="200" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=VVUr2sh+obJViSmBkqkrXbilwSG7bu8Nqr+9ZhZ2aME=) | [<img width="200" height="200" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=IklI8VJJRcrxRV0qYAV/BJuaHuJQzzWZ2mUvNTvpYh4=) | [<img width="200" height="200" src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=VVUr2sh+obJViSmBkqkrXVjmuctLmvVQxfYIGVXNbdU=) | [<img width="200" height="200" src="https://aspen.eccouncil.org/Content/Badges/MentorBadges/MentorBadge.png">](https://aspen.eccouncil.org/VerifyBadge?type=mentor&a=IklI8VJJRcrxRV0qYAV/BJuaHuJQzzWZ2mUvNTvpYh4=) 
