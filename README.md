@@ -2,9 +2,9 @@
   
   <h2><img src="[https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72627710)" width="70">desterhuizen<img src="[https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif](https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png)" width="70"></h2>
   
-| OSCP | OSWE | OSWP |
+| OSCP | OSWE | OSWP | OSDA |
 |------------|------------|------------|
-| [<img width="200" height="180" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72627710">](https://www.credential.net/e44015c7-975a-484f-a222-0054c683e745) | [<img width="200" height="180" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94027196">](https://www.credential.net/044a74c1-a4fe-4d7a-8660-e2f1b55814d4) | [<img width="200" height="180" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100405296">](https://www.credential.net/133473b9-c398-4fae-8293-a14b3b824b2c) |
+| [<img width="200" height="180" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72627710">](https://www.credential.net/e44015c7-975a-484f-a222-0054c683e745) | [<img width="200" height="180" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94027196">](https://www.credential.net/044a74c1-a4fe-4d7a-8660-e2f1b55814d4) | [<img width="200" height="180" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100405296">](https://www.credential.net/133473b9-c398-4fae-8293-a14b3b824b2c) | [<img width="200" height="180" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/124452670">](https://www.credential.net/a8cca4f5-bd0d-41f2-9bb1-6f42a78422e9#gs.isjem7#acc.NFxtsu1y) |
 
 
 | C\|EH (Master) | C\|EH | C\EH (Practical) | Mentor |
