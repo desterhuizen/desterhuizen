@@ -1,9 +1,6 @@
 <div align="center">
 
-<h2><img src="[https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72627710)" width="70">
-desterhuizen<img src="[https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif](https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHMASTER_5FB43496785F.png)" width="70"></h2>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Offensive+Security+Researcher;OSCE3+%7C+OSED+%7C+OSEP+%7C+OSWE;Red+Team+%7C+Exploit+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=OSCE3+%7C+OSED+%7C+OSEP+%7C+OSWE;Red+Team+%7C+Exploit+Development)](https://git.io/typing-svg)
 
 | OSCE3                                                                                                                                                                                                      |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
