@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=520&lines=Principal+Engineer+%7C+OSCE3+%7C+MBA;Red+Team+%E2%80%A2+Exploit+Dev+%E2%80%A2+Cloud+Exploitation;Builder.+Breaker.+Business+translator.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desterhuizen/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/100799)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/100799)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/desterhuizen)
 
 </div>
