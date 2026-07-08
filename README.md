@@ -100,8 +100,7 @@ A rare combination of **builder, breaker, and business translator** — based in
 <div align="center">
 
 <a href="https://github.com/desterhuizen">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=desterhuizen&show_icons=true&theme=nord&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desterhuizen&layout=compact&theme=nord&hide_border=true" />
+    <img src="https://img.shields.io/badge/desterhuizen-777777?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
