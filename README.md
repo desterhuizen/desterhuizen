@@ -25,12 +25,6 @@ A rare combination of **builder, breaker, and business translator** — based in
 - Red team tooling & lab environment design
 - Communicating risk in business language (MBA-backed)
 
-### Currently
-
-- Principal Service Delivery Enablement Engineer @ **MongoDB**
-- Designing offensive-ops hackathons and red-team challenges for InfoSec engineers
-- Researching cloud IAM chaining and CI/CD attack paths
-
 ---
 
 <div align="center">
@@ -63,18 +57,6 @@ A rare combination of **builder, breaker, and business translator** — based in
 </div>
 
 ---
-
-## Selected experience
-
-- **MongoDB** — Principal Service Delivery Enablement Engineer · Information Security Engineer II · Principal / Senior Consulting Engineer (2018 – present)
-  - White-box & black-box pentesting of internal tools; TDD-driven secure development
-  - Built and ran a monthly internal offensive-ops hackathon (designed the challenges)
-  - Manage Professional Services AWS estate — policy automation, compliance, cost controls
-- **Synack Red Team** — Researcher (2023 – 2025) · targeted pentests using standard and custom tooling
-- **SEGA Europe** — Senior Server Engineer · scalable game backends, IaC, analytics pipelines on AWS
-- **Arooga** — Director of Server Technology · AWS, EMR/Hadoop, DynamoDB analytics at scale
-
-Full history on [LinkedIn](https://www.linkedin.com/in/desterhuizen/).
 
 ## Publications & write-ups
 
@@ -113,14 +95,6 @@ Full history on [LinkedIn](https://www.linkedin.com/in/desterhuizen/).
 <p>
   <img src="https://skillicons.dev/icons?i=docker,mongodb" />
 </p>
-
----
-
-## Education
-
-- **MBA**, Anglia Ruskin University (2007 – 2009)
-- **National Diploma, Information Technology**, Vaal University of Technology (2002 – 2005)
-- **TIGA Game Developer**, Train2Game (2010 – 2014)
 
 ---
 
