@@ -71,10 +71,11 @@ Based in the Netherlands.
 
 ---
 
-## Writing & walkthroughs
+## Talks & writing
 
-- [4 Common Misconceptions About Security That Hackers Hope You Don't Know](https://www.linkedin.com/in/desterhuizen/) <!-- TODO: point at the article itself, not the profile -->
-- TryHackMe — Red Team Capstone walkthrough
+- **[Hack the MongoDB Planet!](https://www.youtube.com/watch?v=_0TYUG3ic4A)** — conference talk, MongoDB World 2022
+- **[4 Common Misconceptions About Security That Hackers Hope You Don't Know](https://www.mongodb.com/company/blog/technical/hack-common-security-issues-fix-them)** — MongoDB engineering blog, 2022. NoSQL injection, unauthenticated private-network databases, TLS on the wire protocol, and the limits of encryption at rest.
+- **[Red Team Capstone Write-Up](https://tryhackme.com/resources/blog/desterhuizen-red-team-capstone-write-up)** — published on the TryHackMe blog
 
 ---
 
@@ -95,7 +96,7 @@ Based in the Netherlands.
 
 **Operating systems**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
   <br/>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
