@@ -2,7 +2,7 @@
 
 # Dawid Esterhuizen
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=520&lines=Distinguished+Engineer+%7C+OSCE3+%7C+MBA;Red+Team+%E2%80%A2+Exploit+Dev+%E2%80%A2+Cloud+Exploitation;Builder.+Breaker.+Business+translator.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=520&lines=Distinguished+Engineer+%7C+OSCE3+%7C+MBA;Red+Team+%E2%80%A2+Exploit+Dev+%E2%80%A2+Cloud+Exploitation)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desterhuizen/)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/100799)
@@ -12,17 +12,19 @@
 
 ## About
 
-Consulting engineer with **20+ years** across software development, infrastructure, DevOps, and cloud — now focused on **offensive security**. I specialise in **code-to-compromise analysis, red team methodology, and cloud exploitation**, and have managed AWS infrastructure for an entire Professional Services org since 2018. With an MBA on top of the technical stack, I translate findings into business impact: risk modelling, executive communication, and security work that actually moves the needle.
+I'm a **Distinguished Consulting Engineer at MongoDB**, where I set the cloud and security governance that our Professional Services organisation runs on. Since November 2024 that work has **halved the department's cloud spend** and taken it from **66 critical severity findings to zero** on unchanged infrastructure, with highs down from 229 to 10.
 
-A rare combination of **builder, breaker, and business translator** — based in the Netherlands.
+I hold **OSCE3, OSCP and OSDA** — so I know how the controls I write fail under attack. Twenty years building systems, more recently spent breaking them. I have been the primary AWS administrator on every estate I have run since 2013, and I hold an MBA, which mostly means I can explain to the people who control budgets why a finding matters.
 
-### Core strengths
+Based in the Netherlands.
 
+### What I work on
+
+- Cloud and AWS security governance at organisation scale
 - Web app & exploit development (OSWE / OSED-level)
 - Cloud & AWS exploitation, IAM chaining
 - DevOps-aware attack simulation (CI/CD, containers)
 - Red team tooling & lab environment design
-- Communicating risk in business language (MBA-backed)
 
 ---
 
@@ -57,12 +59,22 @@ A rare combination of **builder, breaker, and business translator** — based in
 
 ---
 
-## Publications & write-ups
+## What I'm building
 
-- [4 Common Misconceptions About Security That Hackers Hope You Don't Know](https://www.linkedin.com/in/desterhuizen/)
+| Project | |
+|---|---|
+| **[w1ld0s](https://github.com/desterhuizen/w1ld0s)** | Idempotent bash provisioning for a reproducible Ubuntu 26.04 pentest workstation — per-tool venvs, manifest lock files, no Kali coupling. |
+| **[w1ld0s-tools](https://github.com/desterhuizen/w1ld0s-tools)** | Operator command layer on top of `w1ld0s` — recon, access, infra and AD workflows, engagement state, and offline cheatsheets. |
+| **[exploit-tools](https://github.com/desterhuizen/exploit-tools)** | Exploit development tooling, focused on Return Oriented Programming. |
+| **[exploit-development-scripts](https://github.com/desterhuizen/exploit-development-scripts)** | Scripts used when reverse engineering and doing exploit development. |
+| **[payloader](https://github.com/desterhuizen/payloader)** | Payload generation from a simple CLI, for faster access to custom payloads. |
+
+---
+
+## Writing & walkthroughs
+
+- [4 Common Misconceptions About Security That Hackers Hope You Don't Know](https://www.linkedin.com/in/desterhuizen/) <!-- TODO: point at the article itself, not the profile -->
 - TryHackMe — Red Team Capstone walkthrough
-
-> Pinned repos below — CTF write-ups, custom red-team tooling, and lab environments.
 
 ---
 
